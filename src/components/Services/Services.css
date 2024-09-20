@@ -1,0 +1,13 @@
+/* Services.css */
+.services-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 20px; /* Spacing between grid items */
+    padding: 20px;
+  }
+  
+  .service-card {
+    padding: 15px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
